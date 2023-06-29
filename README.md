@@ -39,13 +39,15 @@ A simple script that makes you enter vim editor in insert mode.
 __Usage:__
 
     ./vimm filename
-### Pro-Tip
-If you want to make any of these commands system-wide so you can use them as you would terminal commands;
+### Tips
+- If you want to make any of these commands system-wide so you can use them as you would terminal commands;
 
     sudo cp file.sh /usr/bin/file
 
 Afterwards, it will be;
 
     vimm filename
+
+- The names of these scripts can be changed to suit your preferences
 
 Learn more at: [How To Write Bash Scripts In Linux](https://www.tomshardware.com/how-to/write-bash-scripts-linux)
