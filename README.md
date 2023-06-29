@@ -42,11 +42,11 @@ __Usage:__
 ### Tips
 - If you want to make any of these commands system-wide so you can use them as you would terminal commands;
 
-    sudo cp file.sh /usr/bin/file
+    	sudo cp file.sh /usr/bin/file
 
-Afterwards, it will be;
+	Afterwards, it will be;
 
-    vimm filename
+    	vimm filename
 
 - The names of these scripts can be changed to suit your preferences
 
