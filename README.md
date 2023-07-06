@@ -1,4 +1,10 @@
 # bash_scripts
+### [exec.sh](exec.sh)
+A simple script that shortens typing chmod u+x.
+__Usage:__
+
+    ./execsh filename
+
 ### [gitcom.sh](gitcom.sh)
 A simple script for performing a git commit (easily).
 __Usage:__
@@ -13,7 +19,7 @@ __Usage:__
 	    Your git commit message
 
 ### [gitstat.sh](gitstat.sh)
-A simple shell script that shortens typing git status (I know right. So absurd).
+A simple shell script that shortens typing "git status" (I know right. So absurd).
 
 __Usage:__
 
@@ -39,6 +45,7 @@ A simple script that makes you enter vim editor in insert mode.
 __Usage:__
 
     ./vimm filename
+
 ### Tips
 - If you want to make any of these commands system-wide so you can use them as you would terminal commands;
 
