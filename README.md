@@ -11,11 +11,11 @@ __Usage:__
 
     ./gitcom "Your git commit message"
 
-### [gitcom_1.sh](gitcom_1.sh)
+### [gitpush.sh](gitpush.sh)
 A simple script for performing a git commit.
 __Usage:__
 
-    ./gitcom_1
+    ./gitpush
 	    Your git commit message
 
 ### [gitstat.sh](gitstat.sh)
