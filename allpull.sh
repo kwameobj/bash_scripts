@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Go to home directory
+cd ~
+
+
 # Function to check if a directory contains a .git file
 function hasGit() {
   if [ -d "$1/.git" ]; then
@@ -26,3 +30,8 @@ function gitPullRecursive() {
 gitPullRecursive "."
 
 echo "Git pull completed for all repositories."
+
+# Go to previous directory
+cd ..
+
+
