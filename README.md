@@ -47,9 +47,11 @@ __Usage:__
     ./vimm filename
 
 ### Tips
-- If you want to make any of these commands system-wide so you can use them as you would terminal commands;
+- If you want to make any of these commands system-wide so you can use them as you would terminal commands, make a copy of them into '/usr/bin'.
 
-    	sudo cp file.sh /usr/bin/file
+	For example, if I want to make the vimm.sh system wide.
+
+    	sudo cp vimm.sh /usr/bin/vimm
 
 	Afterwards, it will be;
 
